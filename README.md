@@ -1,3 +1,8 @@
+notaði react og Web Storage API
+9 takkar sem eru annaðhvort on eða off
+gerði component fyrir takkan sem ég gat endurnýtt 9 sinnum
+state-ið á tökkunum er save-að í localStorage með Web Storage API 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

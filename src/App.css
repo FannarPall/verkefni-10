@@ -1,9 +1,16 @@
 .App {
-  text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
   margin: 0;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr); 
+  height: 100vh; 
+  gap: 10vh;
+  margin-top: 10vh;
 }
 
